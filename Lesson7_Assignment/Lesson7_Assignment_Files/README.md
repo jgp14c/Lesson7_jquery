@@ -4,13 +4,13 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(3/22/17)
 
 ### Student Name:  
-(First and Last Name)
+(Jack Porter)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(We were changing and adding code to allow a recipe to appear after the h3 headers were clicked.)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
